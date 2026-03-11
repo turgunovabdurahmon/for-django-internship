@@ -1,0 +1,2 @@
+# for-django-internship
+django
